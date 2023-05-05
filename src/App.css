@@ -1,0 +1,12 @@
+.btn{
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.logo{
+  background-size: cover;
+  width: 100%;
+}
+#menu{
+  color: aquamarine;
+  cursor: pointer;
+}
